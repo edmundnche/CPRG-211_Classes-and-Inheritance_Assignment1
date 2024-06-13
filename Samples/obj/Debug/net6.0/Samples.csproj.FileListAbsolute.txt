@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\bin\Debug\net6.0\Samples.exe
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\bin\Debug\net6.0\Samples.deps.json
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\bin\Debug\net6.0\Samples.runtimeconfig.json
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\bin\Debug\net6.0\Samples.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\bin\Debug\net6.0\Samples.pdb
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\obj\Debug\net6.0\Samples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\obj\Debug\net6.0\Samples.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\obj\Debug\net6.0\Samples.AssemblyInfo.cs
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\obj\Debug\net6.0\Samples.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\obj\Debug\net6.0\Samples.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\obj\Debug\net6.0\refint\Samples.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\obj\Debug\net6.0\Samples.pdb
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\obj\Debug\net6.0\Samples.genruntimeconfig.cache
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\Samples\obj\Debug\net6.0\ref\Samples.dll

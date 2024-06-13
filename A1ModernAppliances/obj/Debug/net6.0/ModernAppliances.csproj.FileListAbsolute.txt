@@ -1,0 +1,45 @@
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\Admin\Documents\SAIT\CPRG211 Object Oriented Programming 2\Assignments\Classes and Inheritance\Assignment1Skeleton\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\test\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\Dell\Desktop\sait\semester2nd\OBJECT_2\Group_assignment_1\MyModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
